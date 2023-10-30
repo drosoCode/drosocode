@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A student at [Paris Cité University](https://u-paris.fr/)</h3>
+<h3 align="center">A student at <a href="https://u-paris.fr">Paris Cité University</a></h3>
 
 - ⚡ I'm currently experimenting with a Kubernetes-based [homelab](https://github.com/drosoCode/kube-infra-public)
 - 💻 I am using a new Arch/i3-based [configuration](https://github.com/drosoCode/dotfiles_i3) for my laptop
